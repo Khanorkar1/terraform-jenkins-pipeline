@@ -1,7 +1,7 @@
 variable "aws_access_key" {
   description = "AWS access key"
   type        = string
-  default     = "AKIA5I7VGT3O6JAN3FMJ"
+  default     = ""
 }
 
 variable "aws_secret_key" {
